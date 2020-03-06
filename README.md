@@ -15,6 +15,7 @@ by Android studio
 4. 하트 미사일이 상대방 캐릭터에 닿을경우 상대방의 점수 -, 내 점수 +
 5. 이미지 크기는 스크린 사이즈를 통해 상대적인 사이즈로 구현
 6. 컨트롤은 포지션 수정으로 구현
+7. 애니메이션은 이미지를 계속 반복해서 바꾸는걸로 구현
 
 Simple Sprite Control, Event Control, Location control. etc...
 
